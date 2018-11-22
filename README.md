@@ -15,7 +15,7 @@ If you have trouble viewing the maps on github, please use the [nbviewer](http:/
 
 ## Script Description
 1. `Homework_3.ipynb`:
-> A jupyter notebook file with execution of the search queries and explanation of our choice. The search engines are as follows:
+> A jupyter notebook file with all the execution of the search queries and the explanation of our choice. The search engines are as follows:
 > 1. Simple *conjunctive* search engine
 > 2. **TF-IDF** conjunctive search engine
 > 3. Search engine with our **own scoring criteria**
