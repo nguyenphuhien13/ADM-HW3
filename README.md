@@ -18,7 +18,7 @@ If you have trouble viewing the maps on github, please use the [nbviewer](http:/
 > A jupyter notebook file with all the execution of the search queries and the explanation of our choice. The search engines are as follows:
 > 1. Simple *conjunctive* search engine
 > 2. **TF-IDF** conjunctive search engine
-> 3. Search engine with our **own scoring criteria**
+> 3. Search engine with **our own scoring criteria**
 
 2. `myfunction.py`
 > The function file
