@@ -1,6 +1,8 @@
 # ADM-HW3 Group#6
 # Homework 3 - Find the perfect place to stay in Texas!
 
+# NOTE: We'd forgotten to upload the dictionary datasets, so we just uploaded recently after the deadline. However we make no changes in the main ipynb file and function file.
+
 ### Dataset
 The data set is available at [here](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas)
 ### Additional data
